@@ -1,0 +1,24 @@
+{
+  "name": "m1_miage_iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_lucioles_v4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuentinIUTNice/M1_MIAGE_Iot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuentinIUTNice/M1_MIAGE_Iot/issues"
+  },
+  "homepage": "https://github.com/QuentinIUTNice/M1_MIAGE_Iot#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "mongodb": "^4.5.0",
+    "mqtt": "^4.3.7"
+  }
+}
