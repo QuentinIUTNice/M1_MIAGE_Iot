@@ -106,7 +106,7 @@ function get_samples(path_on_node, serie, wh){
 
     console.log('get samples !');
     //node_url = window.location.href;
-    node_url = 'https://esplucioles.herokuapp.com'
+    node_url = 'https://m1miageiot.herokuapp.com'
     //node_url = 'http://localhost:3000'
     //node_url = 'http://134.59.131.45:3000'
     //node_url = 'http://192.168.1.101:3000'
