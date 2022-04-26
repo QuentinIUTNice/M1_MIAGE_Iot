@@ -36,8 +36,8 @@ async function v0() {
 	//const mongoUri = 'mongodb://localhost:27017/'; //URL de connection		
 	//const mongoUri = 'mongodb://10.9.128.189:27017/'; //URL de connection
 	//const mongoUri = 'mongodb+srv://menez:pass...l@cluster0.x0zyf.mongodb.net/lucioles?retryWrites=true&w=majority';
-	const mongoUri = 'mongodb+srv://QuentinBertramo:<password>@iotproject.il3fl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
-	//var mongoUri = process.env.MONGOLAB_URI;
+	//const mongoUri = 'mongodb+srv://quentin:Password12345@cluster0.dx76e.mongodb.net/lucioles?retryWrites=true&w=majority';
+	var mongoUri = process.env.MONGOLAB_URI;
 
 
 	//Now that we have our URI, we can create an instance of MongoClient.
