@@ -56,7 +56,8 @@ function init() {
     //=== Gestion de la flotte d'ESP =================================
     var which_esps = [
 	"80:7D:3A:FD:E8:48",
-    "30:AE:A4:86:C4:84"
+    "30:AE:A4:86:C4:84",
+	"80:7D:3A:FD:E8:E8"
     // ecrit dans l'esp dans la console
 
 //	,"1761716416"
